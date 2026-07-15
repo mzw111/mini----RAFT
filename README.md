@@ -2,7 +2,7 @@ Distributed Drawing Board (Mini-RAFT)
 This project implements a Mini-RAFT style distributed backend for a real-time drawing board.
 
 Services
-fronted (static UI): http://localhost:8080
+frontend (static UI): http://localhost:8080
 gateway (WebSocket + leader routing): http://localhost:5000
 replica1: http://localhost:6001
 replica2: http://localhost:6002
